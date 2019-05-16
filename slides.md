@@ -107,8 +107,9 @@ A moja główna dziedzina to akty. <!-- .element: class="fragment" -->
 
 [https://35photo.pro/diodorsirola](https://35photo.pro/diodorsirola)
 ----
-Sub?
-Instagram QR code.
+# Instagram
+### @diodorsirola
+<img src="./media/DSinstrgram.svg" width="40%">
 ---
 # Przed koncertem
 ---
