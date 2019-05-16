@@ -207,10 +207,19 @@ to, co masz i co ci leży
 ## Stopery do uszu
 **[2 PLN]** W każdej aptece, proś o "stoper woskowy".
 <img src="./media/stopper.jpg" width="90%">
+----
+Jeśli jesteś tylko na 3 piosenki pod sceną &ndash; da radę bez.
+
+Ale jeśli chcesz czatować
 ---
 ## 2 średnie mocniejsze<br>worki na śmieci
 **[0.20 PLN]**
-Nic nie ważą, a jak zacznie padać można szybko schować sprzęt.
+Nic nie ważą, a jak zacznie padać można szybko owinąć nimi sprzęt.
+---
+## Tulipany do każdego obiektywu
+czyli osłony przeciwsłoneczne.
+
+Sprawdzają się też jako osłony przeciwdeszczowe i przeciwuderzeniowe.
 ---
 ## Kilka gumek recepturek
 czymś te worki trzeba przymocować do aparatu
@@ -222,8 +231,11 @@ czymś te worki trzeba przymocować do aparatu
 ---
 # Sprawy organizacyjne
 ---
+## Zrób screena z maila
+zasięg na miejscu może być bardzo słaby
+---
 ## Przyjdź wcześniej.
-### Koncert nie zaczeka.
+Koncert nie zaczeka.
 ---
 ### Weź swój "prowiant" (o ile się da...)
 ---
@@ -254,15 +266,20 @@ najczęściej patrzą tylko na opaski <!-- .element: class="dimm2"-->
 # **Fotografuj!!!**
 #### do czasu sygnalizacji przez ochronę, że to już
 ---
+## Nie zmieniaj ciągle obiektywów
+Staraj się nie wracać do poprzednich obiektywów.
+
+Jak już masz obiektyw założony, fotografuj nim przynajmniej pół piosenki.
+---
 ## Opuść fosę.
 Nie przeciągaj.
 ---
 **Uwaga!** Czasem nie musisz całkowicie<br> schodzić spod sceny!
 ---
 ## Czatuj z boku sceny
-z długim obiektywem.
+z długim obiektywem. 200 mm jest całkiem OK.
 
-200 mm jest całkiem OK.
+Będziesz wtedy stał pod samym głośnikiem, więc zatyczki do uszu się przydadzą.
 ---
 ## Wróć spod sceny<br>i zgraj foty na backup
 o ile będzie taka opcja
@@ -300,6 +317,10 @@ Szeroko! Ale żeby nie było mydła.
 Czasem opłaca się przymknąć o stopień lub dwa.
 
 Stats: 2.8: 66%, 1.4: 34%
+----
+## Czy przymykać przysłonę żeby uzyskać większą głębię ostrości?
+
+Na full frame: różnica między np. 2.8 a 3.2 jest na tyle mała, że jak nie trafisz z ostrością to i tak będzie nieostre. Najlepiej robić na największej nie-mydlanej przysłonie i liczyć na szczęście.
 ---
 ## ISO
 Jak najniższe, ale nigdy więcej niż używalne.
@@ -362,12 +383,13 @@ Przed koncertem (na nie swoim koncercie, z publiczności) zrobić serię zdjęć
 żabia perspektywa jest ogólnie niekorzystna dla ludzi
 ----
 #### Mężczyźni: zazwyczaj to nie problem
-zazwyczaj i tak są brzydale i nic im nie zaszkodzi :P <!-- .element: class="dimm"-->
+i tak są brzydale więc nic im nie zaszkodzi :P <!-- .element: class="dimm"-->
 ----
 #### Kobiety: ... :/
 <img src="./media/k01_perspektywa.jpg" height="550px">
 ----
 Schodki trochę pomagają.
+
 Ale trzeba uważnie obserwować sytuację.
 ----
 ### Lepiej
@@ -381,8 +403,27 @@ Ale trzeba uważnie obserwować sytuację.
 ### Lepiej
 <img src="./media/k02_statywy2.jpg" height="550px">
 ----
-### Lepiej - retusz
+### Lepiej? - retusz
+(nie patrzcie na kompozycję) <!-- .element: class="smaller4"-->
 <img src="./media/k02_statywy3.jpg" height="550px">
+---
+# Tips & Tricks
+---
+## Szukaj przekątnych. Dynamiczna kompozycja bywa ciekawsza.
+---
+## Obserwuj światło. Wzory powtarzają się co jakiś czas.
+---
+## Poluj na promienie świecone zza wykonawcy.
+---
+## Szukaj kadrów i miejsc, które będą unikalne.
+---
+## Znaj swój cel.
+ * Robisz reportaż? Opowiedz historię, pokaż cały koncert - scenę, wykonawców, publikę.
+ * Robisz portrety? Skup się na mimice twarzy.
+ * Robisz gitary? Skup się na gitarzystach.
+---
+## Oddaj spójną relację.
+Lepiej oddać mniej zdjęć, niż więcej kiepskich
 ---
 # To już prawie wszystko
 ----
