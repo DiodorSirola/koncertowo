@@ -99,6 +99,12 @@ Fotografuję koncerty na Juwenaliach. Od zawsze.
 
 A moja główna dziedzina to akty. <!-- .element: class="fragment" -->
 ----
+(bez cenzury)
+
+[https://diodorsirola.maxmodels.pl](https://diodorsirola.maxmodels.pl)
+
+(wymaga logowania)
+
 [https://35photo.pro/diodorsirola](https://35photo.pro/diodorsirola)
 ----
 Sub?
