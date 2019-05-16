@@ -82,15 +82,14 @@ revealOptions:
         }
     </style>
 
-<!-- .slide: data-background="./media/001_title2.jpg" data-background-opacity="1" -->
----
 <!-- .slide: data-background="./media/001_title2.jpg" data-background-opacity="0.2" -->
 # Jak nie robić zdjęć<br>na koncertach
 
 *by* Diodor Sirola
 
 [diodor.sirola@gmail.com](mailto:diodor.si@samsung.com)
-
+---
+<!-- .slide: data-background="./media/001_title2.jpg" data-background-opacity="1" -->
 ---
 # O mnie
 
